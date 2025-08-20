@@ -31,7 +31,7 @@ Passionate about crafting beautiful, performant, and user-friendly cross-platfor
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rah103&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rah103e&layout=compact&theme=default&hide_border=true&hide=html,css,javascript&title_color=0175C2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rah103&layout=compact&theme=default&hide_border=true&hide=html,css,javascript&title_color=0175C2" />
 </p>
 
 <p align="center">
