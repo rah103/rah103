@@ -39,7 +39,7 @@ Passionate about crafting beautiful, performant, and user-friendly cross-platfor
 
 I'm always excited to connect with other developers, discuss new ideas, or explore opportunities.
 
-- **LinkedIn:** [Ali Haider](www.linkedin.com/in/ali-haider-01341027b)
+- **LinkedIn:** [Ali Haider](www.linkedin.com/in/ali-haider-01341027b/)
 - **Email:** [ranaalihaider4563@gmail.com](mailto:ranaalihaider4563@gmail.com)
 
 ---
